@@ -1,0 +1,29 @@
+Liczba Szeregow,24.255310313773727
+Wielkosc Rozmazania,0.007039999999999999
+Terenowy Zasieg Zdjecia - X,306.875
+Terenowy Zasieg Zdjecia - Y,229.37500000000003
+Wspolczynnik Empiryczny c,139.75424859373686
+Liczba Zdjec Calkowita,911.8001127732429
+Czas Lotu,76.5312433750719
+Liczba Zdjec w Szeregu,37.59177272844306
+Mianownik Skali Zdjecia,6250.0
+Wysokosc Wzgledem Lotniska,630.0
+Baza Podluzna,122.73036000000002
+Powierzchnia Arkusza Mapy,16000000.0
+Czas Otwarcia Migawki,0.0019999999999999996
+Baza Poprzeczna,172.003725
+Teremowy Wymiar Piksela,0.0375
+Wysokosc Fotografowania,500.0
+Wymiar_Ternowy_Podlurzny,306.82590000000005
+Dlugosc Szeregu,4.6136517999999995
+Terenowy Wymiar Piksela - Maksymalny,0.038625
+Powierzchnia Stereogramu,30936.098703125004
+Dystans Miedzy Zdjeciami,26.4
+Terenowy Wymiar Piksela - Minimalny,0.036375000000000005
+Wysokosc Srednia,254.0
+Dlugosc Nalotu,101021.24125509491
+Czas Wykonywania Zdjecia,1.2
+Skala Zdjecia,0.00016
+Wymiar Terenowy Poprzeczny,229.3383
+Powierzchnia Uzyteczna Stereogramu,21110.079090591003
+Powierzchnia Zdjecia,70389.45312500001

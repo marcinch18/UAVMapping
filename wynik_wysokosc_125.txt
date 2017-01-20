@@ -1,0 +1,28 @@
+Wymiar Ternowy Podlurzny: 92013.4
+Wymiar Terenowy Poprzeczny: 68775.8
+Czas Wykonywania Zdjecia: 1.2
+Dystans Miedzy Zdjeciami: 26.4
+Mianownik Skali Zdjecia: 1875.0
+Wspolczynnik Empiryczny c: 41.9262745781
+Wysokosc Srednia: None
+Wysokosc Fotografowania: 150.0
+Wysokosc Wzgledem Lotniska: 280.0
+Skala Zdjecia: 0.000533333333333
+Teremowy Wymiar Piksela: 0.01125
+Terenowy Wymiar Piksela - Minimalny: 0.010125
+Terenowy Wymiar Piksela - Maksymalny: 0.012375
+Powierzchnia Arkusza Mapy: 16000000.0
+Baza Podluzna: 36805.36
+Baza Poprzeczna: 51581.85
+Liczba Szeregow: 1.07754665643
+Liczba Zdjec w Szeregu: 5.10867982272
+Liczba Zdjec Calkowita: 5.50484086175
+Dlugosc Szeregu: 188026.8
+Terenowy Zasieg Zdjecia - X: 92062.5
+Terenowy Zasieg Zdjecia - Y: 68812.5
+Powierzchnia Zdjecia: 6335050781.25
+Powierzchnia Stereogramu: 1898488558.72
+Dlugosc Nalotu: 8310.18662572
+Czas Lotu: 377.735755715
+Wielkosc Rozmazania: 0.0586666666667
+Czas Otwarcia Migawki: 0.005
