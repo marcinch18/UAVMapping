@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Google Maps v3 API Example</title>
+        <style>
+            html, body, #map {
+                height: 100%;
+                width: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            div#footer {
+                position: fixed;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                width: 100%;
+                height: 18px;
+                margin: 0;
+                padding: 6px;
+                z-index: 2;
+                background: WHITE;
+            }
+        </style> 
+    </head>
+    <body>
+        <div id="map" style="float: left;"></div>
+        
+        <div id="footer">&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors</div>
+        
+        <!-- bring in the google maps library -->
+        <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        
+        <!--Google maps API initialisation-->
+		<script type="text/javascript" src="qgmap_new.js"></script>
+    </body>
+</html>

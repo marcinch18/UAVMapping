@@ -35,15 +35,21 @@
         <script type="text/javascript">
             //Google maps API initialisation
             var element = document.getElementById("map");
- 
+			var uluru = {lat: -25.363, lng: 131.044};
+
             var map = new google.maps.Map(element, {
-                center: new google.maps.LatLng(57, 21),
+                center: uluru,
                 zoom: 3,
                 mapTypeId: "OSM",
                 mapTypeControl: false,
                 streetViewControl: false
             });
- 
+			
+			 var marker = new google.maps.Marker({
+			  position: uluru,
+			  map: map
+			});
+			
             //Define OSM map type pointing at the OpenStreetMap tile server
             map.mapTypes.set("OSM", new google.maps.ImageMapType({
                 getTileUrl: function(coord, zoom) {
